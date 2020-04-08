@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project
 
 ## Description:
-In this app, there is a machine learning pipeline is created to classify the emergency messages sent by users to appropriate categories.
+In this app, a machine learning pipeline is created to classify the emergency messages sent by users to appropriate categories.
 The data for training is obtained from Figure Eight [Disaster Response Data](https://www.figure-eight.com/dataset/combined-disaster-response-data/). The data thus obtained is cleaned and transformed to the necessary form using the ETL pipelines and other Data Engineering techniques. Then a front-end is created using the HTML and deployed using the python FLASK library. Visit the below link for more information on [Flask](https://flask.palletsprojects.com/en/1.1.x/).
 
 
