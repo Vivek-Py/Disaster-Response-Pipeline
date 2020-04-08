@@ -83,12 +83,8 @@ This application can be improved in the following areas:
 In this section the app is explained:
 1. The below is the screenshot for the first page where the user input is taken. As shown below the user input is "My friend is stranded at his house with low supplies of food". The classifier classifies this as the "AID related" and the label taken is food.
 
-![](UserInput.PNG)
-
 2. The first page also contains the training set graphs plotted using the plotly. These training data is provided by the Figure Eight. The images is as shown below. 
 
 * Here the First graph shows the classification of the Data sources, from social media, news, and direct. The count of the number of the messages obtained from each source is plotted.
 
 * The second graph displays the  number of message in each of the the disaster response categories.
-
-![](Plots.PNG)
