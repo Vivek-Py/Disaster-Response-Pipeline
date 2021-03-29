@@ -78,12 +78,12 @@ This application can be improved in the following areas:
    to less number of training data for the same. This leads to lower accuracy in the classification for these classes. This can
    be obtained by obtaining more training and test data for the same from various sources.
    
-## Explanation of the screenshots:
+## Explanation of the app:
 
 In this section the app is explained:
-1. The below is the screenshot for the first page where the user input is taken. As shown below the user input is "My friend is stranded at his house with low supplies of food". The classifier classifies this as the "AID related" and the label taken is food.
+1. The first page where the user input is taken.The classifier classifies it.
 
-2. The first page also contains the training set graphs plotted using the plotly. These training data is provided by the Figure Eight. The images is as shown below. 
+2. The first page also contains the training set graphs plotted using the plotly. These training data is provided by the Figure Eight.
 
 * Here the First graph shows the classification of the Data sources, from social media, news, and direct. The count of the number of the messages obtained from each source is plotted.
 
